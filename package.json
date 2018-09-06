@@ -1,0 +1,31 @@
+{
+  "name": "notary",
+  "version": "1.0.0",
+  "description": "[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.1.8",
+    "truffle": "^4.1.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test",
+    "rpc": "node_modules/.bin/ganache-cli --port=8098 --networkId=84893",
+    "build": "truffle build",
+    "compile": "truffle compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bit-Nation/notary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bit-Nation/notary/issues"
+  },
+  "homepage": "https://github.com/Bit-Nation/notary#readme"
+}
