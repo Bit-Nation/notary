@@ -27,7 +27,7 @@ contract Notary {
         // create hash of record to to have an unique and deterministic key
         bytes32 recordHash = keccak256(_record);
 
-        // make the this record hasn't been notarised
+        // make sure the record hasn't been notarised
         require(records[recordHash].timestamp == 0);
 
         // notarize record
