@@ -1,5 +1,5 @@
-var Migrations = artifacts.require("./Migrations.sol");
+const Notary = artifacts.require("./Notary.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(Migrations);
+  deployer.deploy(Notary);
 };
