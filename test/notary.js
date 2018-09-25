@@ -1,4 +1,5 @@
 const Notary = artifacts.require('Notary');
+const NotaryMulti = artifacts.require('NotaryMulti');
 
 contract('Notary - notarize', () => {
 
@@ -33,11 +34,32 @@ contract('Notary - notarize', () => {
                 try {
                     await notary.notarize(toNotarize);
                 } catch (e) {
-                    assert.equal("VM Exception while processing transaction: revert", e.message)
+                    assert.equal("VM Exception while processing transaction: revert", e.message);
                     return
                 }
 
                 assert.fail("expected an error since we shouldn't be able to notarize twice")
+
+            })
+
+    })
+
+});
+
+contract("NotaryMulti - notarize", () => {
+
+    it('notarize', () => {
+
+        return Notary
+            .new()
+            .then(async (notary) => {
+
+                const multiNotary = await NotaryMulti.new(notary.address);
+
+                await multiNotary.notarizeTwo(
+                    Buffer.from("value_one").toString("hex"),
+                    Buffer.from("value_two").toString("hex")
+                );
 
             })
 

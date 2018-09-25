@@ -42,13 +42,18 @@ contract Notary {
 
 contract NotaryMulti {
 
+    Notary public notary;
+
+    constructor(Notary _notary) public {
+        notary = _notary;
+    }
+
     /**
     * @dev notarize two records
     * @param _firstRecord is the first record that should be notarized
     * @param _secondRecord is the second record that should be notarized
     */
-    function notarizeTwo(address _notaryAddress, bytes _firstRecord, bytes _secondRecord) public {
-        Notary notary = Notary(_notaryAddress);
+    function notarizeTwo(bytes _firstRecord, bytes _secondRecord) public {
         notary.notarize(_firstRecord);
         notary.notarize(_secondRecord);
     }
