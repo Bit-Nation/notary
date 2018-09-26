@@ -61,6 +61,11 @@ contract("NotaryMulti - notarize", () => {
                     Buffer.from("value_two").toString("hex")
                 );
 
+                await multiNotary.notarizeTwo(
+                    Buffer.from("value_three").toString("hex"),
+                    Buffer.from("value_four").toString("hex")
+                );
+
             })
 
     })
