@@ -142,12 +142,16 @@ contract NotaryMulti {
         notary = _notary;
     }
 
+    function notaryFee() public constant returns (uint256) {
+        return 2 * notary.notarisationFee();
+    }
+
     /**
     * @dev notarize two records
     * @param _firstRecord is the first record that should be notarized
     * @param _secondRecord is the second record that should be notarized
     */
-    function notarizeTwo(bytes _firstRecord, bytes _secondRecord) public {
+    function notarizeTwo(bytes _firstRecord, bytes _secondRecord) payable public {
         notary.notarize(_firstRecord);
         notary.notarize(_secondRecord);
     }

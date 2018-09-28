@@ -74,11 +74,11 @@
       "type": "function"
     }
   ],
-  "bytecode": "0x608060405234801561001057600080fd5b50336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055506103c1806100606000396000f300608060405260043610610057576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063715018a61461005c5780638da5cb5b14610073578063f2fde38b146100ca575b600080fd5b34801561006857600080fd5b5061007161010d565b005b34801561007f57600080fd5b5061008861020f565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b3480156100d657600080fd5b5061010b600480360381019080803573ffffffffffffffffffffffffffffffffffffffff169060200190929190505050610234565b005b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561016857600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff167ff8df31144d9c2f0f6b59d69b8b98abd5459d07f2742c4df920b25aae33c6482060405160405180910390a260008060006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561028f57600080fd5b6102988161029b565b50565b600073ffffffffffffffffffffffffffffffffffffffff168173ffffffffffffffffffffffffffffffffffffffff16141515156102d757600080fd5b8073ffffffffffffffffffffffffffffffffffffffff166000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff167f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e060405160405180910390a3806000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550505600a165627a7a72305820f434b13375c75edf158434e83360a6da5eb725e9a8672d0a2c6293e6f8d8e1dd0029",
-  "deployedBytecode": "0x608060405260043610610057576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063715018a61461005c5780638da5cb5b14610073578063f2fde38b146100ca575b600080fd5b34801561006857600080fd5b5061007161010d565b005b34801561007f57600080fd5b5061008861020f565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b3480156100d657600080fd5b5061010b600480360381019080803573ffffffffffffffffffffffffffffffffffffffff169060200190929190505050610234565b005b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561016857600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff167ff8df31144d9c2f0f6b59d69b8b98abd5459d07f2742c4df920b25aae33c6482060405160405180910390a260008060006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561028f57600080fd5b6102988161029b565b50565b600073ffffffffffffffffffffffffffffffffffffffff168173ffffffffffffffffffffffffffffffffffffffff16141515156102d757600080fd5b8073ffffffffffffffffffffffffffffffffffffffff166000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff167f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e060405160405180910390a3806000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550505600a165627a7a72305820f434b13375c75edf158434e83360a6da5eb725e9a8672d0a2c6293e6f8d8e1dd0029",
+  "bytecode": "0x608060405234801561001057600080fd5b50336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055506103c1806100606000396000f300608060405260043610610057576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063715018a61461005c5780638da5cb5b14610073578063f2fde38b146100ca575b600080fd5b34801561006857600080fd5b5061007161010d565b005b34801561007f57600080fd5b5061008861020f565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b3480156100d657600080fd5b5061010b600480360381019080803573ffffffffffffffffffffffffffffffffffffffff169060200190929190505050610234565b005b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561016857600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff167ff8df31144d9c2f0f6b59d69b8b98abd5459d07f2742c4df920b25aae33c6482060405160405180910390a260008060006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561028f57600080fd5b6102988161029b565b50565b600073ffffffffffffffffffffffffffffffffffffffff168173ffffffffffffffffffffffffffffffffffffffff16141515156102d757600080fd5b8073ffffffffffffffffffffffffffffffffffffffff166000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff167f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e060405160405180910390a3806000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550505600a165627a7a7230582000bf4f9b0174fd3f68d9eb8f66510a0918406f2fcaaedff6409612321dc808a50029",
+  "deployedBytecode": "0x608060405260043610610057576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063715018a61461005c5780638da5cb5b14610073578063f2fde38b146100ca575b600080fd5b34801561006857600080fd5b5061007161010d565b005b34801561007f57600080fd5b5061008861020f565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b3480156100d657600080fd5b5061010b600480360381019080803573ffffffffffffffffffffffffffffffffffffffff169060200190929190505050610234565b005b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561016857600080fd5b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff167ff8df31144d9c2f0f6b59d69b8b98abd5459d07f2742c4df920b25aae33c6482060405160405180910390a260008060006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561028f57600080fd5b6102988161029b565b50565b600073ffffffffffffffffffffffffffffffffffffffff168173ffffffffffffffffffffffffffffffffffffffff16141515156102d757600080fd5b8073ffffffffffffffffffffffffffffffffffffffff166000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff167f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e060405160405180910390a3806000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550505600a165627a7a7230582000bf4f9b0174fd3f68d9eb8f66510a0918406f2fcaaedff6409612321dc808a50029",
   "sourceMap": "216:1402:0:-;;;565:56;8:9:-1;5:2;;;30:1;27;20:12;5:2;565:56:0;604:10;596:5;;:18;;;;;;;;;;;;;;;;;;216:1402;;;;;;",
   "deployedSourceMap": "216:1402:0:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;884:121;;8:9:-1;5:2;;;30:1;27;20:12;5:2;884:121:0;;;;;;239:20;;8:9:-1;5:2;;;30:1;27;20:12;5:2;239:20:0;;;;;;;;;;;;;;;;;;;;;;;;;;;1177:109;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1177:109:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;884:121;762:5;;;;;;;;;;;748:19;;:10;:19;;;740:28;;;;;;;;964:5;;;;;;;;;;;945:25;;;;;;;;;;;;996:1;980:5;;:18;;;;;;;;;;;;;;;;;;884:121::o;239:20::-;;;;;;;;;;;;;:::o;1177:109::-;762:5;;;;;;;;;;;748:19;;:10;:19;;;740:28;;;;;;;;1250:29;1269:9;1250:18;:29::i;:::-;1177:109;:::o;1431:185::-;1526:1;1505:23;;:9;:23;;;;1497:32;;;;;;;;1572:9;1544:38;;1565:5;;;;;;;;;;;1544:38;;;;;;;;;;;;1600:9;1592:5;;:17;;;;;;;;;;;;;;;;;;1431:185;:::o",
-  "source": "pragma solidity ^0.4.23;\n\n/**\n * @title Ownable\n * @dev The Ownable contract has an owner address, and provides basic authorization control\n * functions, this simplifies the implementation of \"user permissions\".\n */\ncontract Ownable {\n    address public owner;\n\n\n    event OwnershipRenounced(address indexed previousOwner);\n    event OwnershipTransferred(\n        address indexed previousOwner,\n        address indexed newOwner\n    );\n\n\n    /**\n     * @dev The Ownable constructor sets the original `owner` of the contract to the sender\n     * account.\n     */\n    constructor() public {\n        owner = msg.sender;\n    }\n\n    /**\n     * @dev Throws if called by any account other than the owner.\n     */\n    modifier onlyOwner() {\n        require(msg.sender == owner);\n        _;\n    }\n\n    /**\n     * @dev Allows the current owner to relinquish control of the contract.\n     */\n    function renounceOwnership() public onlyOwner {\n        emit OwnershipRenounced(owner);\n        owner = address(0);\n    }\n\n    /**\n     * @dev Allows the current owner to transfer control of the contract to a newOwner.\n     * @param _newOwner The address to transfer ownership to.\n     */\n    function transferOwnership(address _newOwner) public onlyOwner {\n        _transferOwnership(_newOwner);\n    }\n\n    /**\n     * @dev Transfers control of the contract to a newOwner.\n     * @param _newOwner The address to transfer ownership to.\n     */\n    function _transferOwnership(address _newOwner) internal {\n        require(_newOwner != address(0));\n        emit OwnershipTransferred(owner, _newOwner);\n        owner = _newOwner;\n    }\n}\n\n\ncontract Notary is Ownable {\n\n    struct Record {\n        bytes notarisedData;\n        uint256 timestamp;\n    }\n\n    mapping(bytes32 => Record) public records;\n    uint256 public notarisationFee;\n\n    /**\n    * @dev initialize Notary\n    * @param _owner of the notary\n    */\n    constructor (address _owner) public {\n        owner = _owner;\n    }\n\n    /**\n    * @dev make sure that the call has the notarisation cost\n    */\n    modifier callHasNotarisationCost() {\n        require(msg.value >= notarisationFee);\n        _;\n    }\n\n    /**\n    * @dev set notarisation cost\n    * @param _fee to notarize a record\n    */\n    function setNotarisationFee(uint256 _fee) public onlyOwner {\n        notarisationFee = _fee;\n    }\n\n    /**\n    * @dev fetch a Record by it's data notarised data\n    * @param _notarisedData the data that got notarised\n    */\n    function record(bytes _notarisedData) public constant returns(bytes, uint256) {\n        Record memory r = records[keccak256(_notarisedData)];\n        return (r.notarisedData, r.timestamp);\n    }\n\n    /**\n    * @dev notarize a new record\n    * @param _record the record to notarize\n    */\n    function notarize(bytes _record)\n        public\n        payable\n        callHasNotarisationCost\n    {\n\n        // create hash of record to to have an unique and deterministic key\n        bytes32 recordHash = keccak256(_record);\n\n        // make sure the record hasn't been notarised\n        require(records[recordHash].timestamp == 0);\n\n        // transfer notarisation fee to owner\n        if (owner != address(0)){\n            owner.transfer(address(this).balance);\n        }\n\n        // notarize record\n        records[recordHash] = Record({\n            notarisedData: _record,\n            timestamp: now\n        });\n\n    }\n\n}\n\ncontract NotaryMulti {\n\n    Notary public notary;\n\n    constructor(Notary _notary) public {\n        notary = _notary;\n    }\n\n    /**\n    * @dev notarize two records\n    * @param _firstRecord is the first record that should be notarized\n    * @param _secondRecord is the second record that should be notarized\n    */\n    function notarizeTwo(bytes _firstRecord, bytes _secondRecord) public {\n        notary.notarize(_firstRecord);\n        notary.notarize(_secondRecord);\n    }\n\n}\n",
+  "source": "pragma solidity ^0.4.23;\n\n/**\n * @title Ownable\n * @dev The Ownable contract has an owner address, and provides basic authorization control\n * functions, this simplifies the implementation of \"user permissions\".\n */\ncontract Ownable {\n    address public owner;\n\n\n    event OwnershipRenounced(address indexed previousOwner);\n    event OwnershipTransferred(\n        address indexed previousOwner,\n        address indexed newOwner\n    );\n\n\n    /**\n     * @dev The Ownable constructor sets the original `owner` of the contract to the sender\n     * account.\n     */\n    constructor() public {\n        owner = msg.sender;\n    }\n\n    /**\n     * @dev Throws if called by any account other than the owner.\n     */\n    modifier onlyOwner() {\n        require(msg.sender == owner);\n        _;\n    }\n\n    /**\n     * @dev Allows the current owner to relinquish control of the contract.\n     */\n    function renounceOwnership() public onlyOwner {\n        emit OwnershipRenounced(owner);\n        owner = address(0);\n    }\n\n    /**\n     * @dev Allows the current owner to transfer control of the contract to a newOwner.\n     * @param _newOwner The address to transfer ownership to.\n     */\n    function transferOwnership(address _newOwner) public onlyOwner {\n        _transferOwnership(_newOwner);\n    }\n\n    /**\n     * @dev Transfers control of the contract to a newOwner.\n     * @param _newOwner The address to transfer ownership to.\n     */\n    function _transferOwnership(address _newOwner) internal {\n        require(_newOwner != address(0));\n        emit OwnershipTransferred(owner, _newOwner);\n        owner = _newOwner;\n    }\n}\n\n\ncontract Notary is Ownable {\n\n    struct Record {\n        bytes notarisedData;\n        uint256 timestamp;\n    }\n\n    mapping(bytes32 => Record) public records;\n    uint256 public notarisationFee;\n\n    /**\n    * @dev initialize Notary\n    * @param _owner of the notary\n    */\n    constructor (address _owner) public {\n        owner = _owner;\n    }\n\n    /**\n    * @dev make sure that the call has the notarisation cost\n    */\n    modifier callHasNotarisationCost() {\n        require(msg.value >= notarisationFee);\n        _;\n    }\n\n    /**\n    * @dev set notarisation cost\n    * @param _fee to notarize a record\n    */\n    function setNotarisationFee(uint256 _fee) public onlyOwner {\n        notarisationFee = _fee;\n    }\n\n    /**\n    * @dev fetch a Record by it's data notarised data\n    * @param _notarisedData the data that got notarised\n    */\n    function record(bytes _notarisedData) public constant returns(bytes, uint256) {\n        Record memory r = records[keccak256(_notarisedData)];\n        return (r.notarisedData, r.timestamp);\n    }\n\n    /**\n    * @dev notarize a new record\n    * @param _record the record to notarize\n    */\n    function notarize(bytes _record)\n        public\n        payable\n        callHasNotarisationCost\n    {\n\n        // create hash of record to to have an unique and deterministic key\n        bytes32 recordHash = keccak256(_record);\n\n        // make sure the record hasn't been notarised\n        require(records[recordHash].timestamp == 0);\n\n        // transfer notarisation fee to owner\n        if (owner != address(0)){\n            owner.transfer(address(this).balance);\n        }\n\n        // notarize record\n        records[recordHash] = Record({\n            notarisedData: _record,\n            timestamp: now\n        });\n\n    }\n\n}\n\ncontract NotaryMulti {\n\n    Notary public notary;\n\n    constructor(Notary _notary) public {\n        notary = _notary;\n    }\n\n    function notaryFee() public constant returns (uint256) {\n        return 2 * notary.notarisationFee();\n    }\n\n    /**\n    * @dev notarize two records\n    * @param _firstRecord is the first record that should be notarized\n    * @param _secondRecord is the second record that should be notarized\n    */\n    function notarizeTwo(bytes _firstRecord, bytes _secondRecord) payable public {\n        notary.notarize(_firstRecord);\n        notary.notarize(_secondRecord);\n    }\n\n}\n",
   "sourcePath": "/Users/florian/projects/notary/contracts/Notary.sol",
   "ast": {
     "absolutePath": "/Users/florian/projects/notary/contracts/Notary.sol",
@@ -87,13 +87,13 @@
         204
       ],
       "NotaryMulti": [
-        237
+        249
       ],
       "Ownable": [
         85
       ]
     },
-    "id": 238,
+    "id": 250,
     "nodeType": "SourceUnit",
     "nodes": [
       {
@@ -294,7 +294,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 252,
+                        "referencedDeclaration": 264,
                         "src": "604:3:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -383,7 +383,7 @@
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 252,
+                            "referencedDeclaration": 264,
                             "src": "748:3:0",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
@@ -437,10 +437,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        255,
-                        256
+                        267,
+                        268
                       ],
-                      "referencedDeclaration": 255,
+                      "referencedDeclaration": 267,
                       "src": "740:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -929,10 +929,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        255,
-                        256
+                        267,
+                        268
                       ],
-                      "referencedDeclaration": 255,
+                      "referencedDeclaration": 267,
                       "src": "1497:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1131,7 +1131,7 @@
             "visibility": "internal"
           }
         ],
-        "scope": 238,
+        "scope": 250,
         "src": "216:1402:0"
       },
       {
@@ -1442,7 +1442,7 @@
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 252,
+                            "referencedDeclaration": 264,
                             "src": "2102:3:0",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
@@ -1496,10 +1496,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        255,
-                        256
+                        267,
+                        268
                       ],
-                      "referencedDeclaration": 255,
+                      "referencedDeclaration": 267,
                       "src": "2094:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1757,7 +1757,7 @@
                         "name": "keccak256",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 246,
+                        "referencedDeclaration": 258,
                         "src": "2585:9:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_sha3_pure$__$returns$_t_bytes32_$",
@@ -2049,7 +2049,7 @@
                       "name": "keccak256",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 246,
+                      "referencedDeclaration": 258,
                       "src": "2971:9:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_sha3_pure$__$returns$_t_bytes32_$",
@@ -2182,10 +2182,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        255,
-                        256
+                        267,
+                        268
                       ],
-                      "referencedDeclaration": 255,
+                      "referencedDeclaration": 267,
                       "src": "3054:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -2323,7 +2323,7 @@
                                     "name": "this",
                                     "nodeType": "Identifier",
                                     "overloadedDeclarations": [],
-                                    "referencedDeclaration": 267,
+                                    "referencedDeclaration": 279,
                                     "src": "3215:4:0",
                                     "typeDescriptions": {
                                       "typeIdentifier": "t_contract$_Notary_$204",
@@ -2507,7 +2507,7 @@
                           "name": "now",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 254,
+                          "referencedDeclaration": 266,
                           "src": "3367:3:0",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
@@ -2632,7 +2632,7 @@
             "visibility": "public"
           }
         ],
-        "scope": 238,
+        "scope": 250,
         "src": "1621:1771:0"
       },
       {
@@ -2641,9 +2641,9 @@
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 237,
+        "id": 249,
         "linearizedBaseContracts": [
-          237
+          249
         ],
         "name": "NotaryMulti",
         "nodeType": "ContractDefinition",
@@ -2653,7 +2653,7 @@
             "id": 206,
             "name": "notary",
             "nodeType": "VariableDeclaration",
-            "scope": 237,
+            "scope": 249,
             "src": "3422:20:0",
             "stateVariable": true,
             "storageLocation": "default",
@@ -2780,7 +2780,7 @@
               "parameters": [],
               "src": "3484:0:0"
             },
-            "scope": 237,
+            "scope": 249,
             "src": "3449:68:0",
             "stateMutability": "nonpayable",
             "superFunction": null,
@@ -2788,9 +2788,160 @@
           },
           {
             "body": {
-              "id": 235,
+              "id": 227,
               "nodeType": "Block",
-              "src": "3783:86:0",
+              "src": "3578:52:0",
+              "statements": [
+                {
+                  "expression": {
+                    "argumentTypes": null,
+                    "commonType": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    },
+                    "id": 225,
+                    "isConstant": false,
+                    "isLValue": false,
+                    "isPure": false,
+                    "lValueRequested": false,
+                    "leftExpression": {
+                      "argumentTypes": null,
+                      "hexValue": "32",
+                      "id": 221,
+                      "isConstant": false,
+                      "isLValue": false,
+                      "isPure": true,
+                      "kind": "number",
+                      "lValueRequested": false,
+                      "nodeType": "Literal",
+                      "src": "3595:1:0",
+                      "subdenomination": null,
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_rational_2_by_1",
+                        "typeString": "int_const 2"
+                      },
+                      "value": "2"
+                    },
+                    "nodeType": "BinaryOperation",
+                    "operator": "*",
+                    "rightExpression": {
+                      "argumentTypes": null,
+                      "arguments": [],
+                      "expression": {
+                        "argumentTypes": [],
+                        "expression": {
+                          "argumentTypes": null,
+                          "id": 222,
+                          "name": "notary",
+                          "nodeType": "Identifier",
+                          "overloadedDeclarations": [],
+                          "referencedDeclaration": 206,
+                          "src": "3599:6:0",
+                          "typeDescriptions": {
+                            "typeIdentifier": "t_contract$_Notary_$204",
+                            "typeString": "contract Notary"
+                          }
+                        },
+                        "id": 223,
+                        "isConstant": false,
+                        "isLValue": false,
+                        "isPure": false,
+                        "lValueRequested": false,
+                        "memberName": "notarisationFee",
+                        "nodeType": "MemberAccess",
+                        "referencedDeclaration": 98,
+                        "src": "3599:22:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_function_external_view$__$returns$_t_uint256_$",
+                          "typeString": "function () view external returns (uint256)"
+                        }
+                      },
+                      "id": 224,
+                      "isConstant": false,
+                      "isLValue": false,
+                      "isPure": false,
+                      "kind": "functionCall",
+                      "lValueRequested": false,
+                      "names": [],
+                      "nodeType": "FunctionCall",
+                      "src": "3599:24:0",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_uint256",
+                        "typeString": "uint256"
+                      }
+                    },
+                    "src": "3595:28:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "functionReturnParameters": 220,
+                  "id": 226,
+                  "nodeType": "Return",
+                  "src": "3588:35:0"
+                }
+              ]
+            },
+            "documentation": null,
+            "id": 228,
+            "implemented": true,
+            "isConstructor": false,
+            "isDeclaredConst": true,
+            "modifiers": [],
+            "name": "notaryFee",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 217,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "3541:2:0"
+            },
+            "payable": false,
+            "returnParameters": {
+              "id": 220,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 219,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 228,
+                  "src": "3569:7:0",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 218,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "3569:7:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "3568:9:0"
+            },
+            "scope": 249,
+            "src": "3523:107:0",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "public"
+          },
+          {
+            "body": {
+              "id": 247,
+              "nodeType": "Block",
+              "src": "3904:86:0",
               "statements": [
                 {
                   "expression": {
@@ -2798,12 +2949,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 226,
+                        "id": 238,
                         "name": "_firstRecord",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 218,
-                        "src": "3809:12:0",
+                        "referencedDeclaration": 230,
+                        "src": "3930:12:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_memory_ptr",
                           "typeString": "bytes memory"
@@ -2819,18 +2970,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 223,
+                        "id": 235,
                         "name": "notary",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
                         "referencedDeclaration": 206,
-                        "src": "3793:6:0",
+                        "src": "3914:6:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_contract$_Notary_$204",
                           "typeString": "contract Notary"
                         }
                       },
-                      "id": 225,
+                      "id": 237,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -2838,13 +2989,13 @@
                       "memberName": "notarize",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": 203,
-                      "src": "3793:15:0",
+                      "src": "3914:15:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_payable$_t_bytes_memory_ptr_$returns$__$",
                         "typeString": "function (bytes memory) payable external"
                       }
                     },
-                    "id": 227,
+                    "id": 239,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2852,15 +3003,15 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "3793:29:0",
+                    "src": "3914:29:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 228,
+                  "id": 240,
                   "nodeType": "ExpressionStatement",
-                  "src": "3793:29:0"
+                  "src": "3914:29:0"
                 },
                 {
                   "expression": {
@@ -2868,12 +3019,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 232,
+                        "id": 244,
                         "name": "_secondRecord",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 220,
-                        "src": "3848:13:0",
+                        "referencedDeclaration": 232,
+                        "src": "3969:13:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_memory_ptr",
                           "typeString": "bytes memory"
@@ -2889,18 +3040,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 229,
+                        "id": 241,
                         "name": "notary",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
                         "referencedDeclaration": 206,
-                        "src": "3832:6:0",
+                        "src": "3953:6:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_contract$_Notary_$204",
                           "typeString": "contract Notary"
                         }
                       },
-                      "id": 231,
+                      "id": 243,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -2908,13 +3059,13 @@
                       "memberName": "notarize",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": 203,
-                      "src": "3832:15:0",
+                      "src": "3953:15:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_payable$_t_bytes_memory_ptr_$returns$__$",
                         "typeString": "function (bytes memory) payable external"
                       }
                     },
-                    "id": 233,
+                    "id": 245,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2922,20 +3073,20 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "3832:30:0",
+                    "src": "3953:30:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 234,
+                  "id": 246,
                   "nodeType": "ExpressionStatement",
-                  "src": "3832:30:0"
+                  "src": "3953:30:0"
                 }
               ]
             },
             "documentation": "@dev notarize two records\n@param _firstRecord is the first record that should be notarized\n@param _secondRecord is the second record that should be notarized",
-            "id": 236,
+            "id": 248,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -2943,16 +3094,16 @@
             "name": "notarizeTwo",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 221,
+              "id": 233,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 218,
+                  "id": 230,
                   "name": "_firstRecord",
                   "nodeType": "VariableDeclaration",
-                  "scope": 236,
-                  "src": "3735:18:0",
+                  "scope": 248,
+                  "src": "3848:18:0",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2960,10 +3111,10 @@
                     "typeString": "bytes"
                   },
                   "typeName": {
-                    "id": 217,
+                    "id": 229,
                     "name": "bytes",
                     "nodeType": "ElementaryTypeName",
-                    "src": "3735:5:0",
+                    "src": "3848:5:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_storage_ptr",
                       "typeString": "bytes"
@@ -2974,11 +3125,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 220,
+                  "id": 232,
                   "name": "_secondRecord",
                   "nodeType": "VariableDeclaration",
-                  "scope": 236,
-                  "src": "3755:19:0",
+                  "scope": 248,
+                  "src": "3868:19:0",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2986,10 +3137,10 @@
                     "typeString": "bytes"
                   },
                   "typeName": {
-                    "id": 219,
+                    "id": 231,
                     "name": "bytes",
                     "nodeType": "ElementaryTypeName",
-                    "src": "3755:5:0",
+                    "src": "3868:5:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_storage_ptr",
                       "typeString": "bytes"
@@ -2999,27 +3150,27 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "3734:41:0"
+              "src": "3847:41:0"
             },
-            "payable": false,
+            "payable": true,
             "returnParameters": {
-              "id": 222,
+              "id": 234,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "3783:0:0"
+              "src": "3904:0:0"
             },
-            "scope": 237,
-            "src": "3714:155:0",
-            "stateMutability": "nonpayable",
+            "scope": 249,
+            "src": "3827:163:0",
+            "stateMutability": "payable",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 238,
-        "src": "3394:478:0"
+        "scope": 250,
+        "src": "3394:599:0"
       }
     ],
-    "src": "0:3873:0"
+    "src": "0:3994:0"
   },
   "legacyAST": {
     "absolutePath": "/Users/florian/projects/notary/contracts/Notary.sol",
@@ -3028,13 +3179,13 @@
         204
       ],
       "NotaryMulti": [
-        237
+        249
       ],
       "Ownable": [
         85
       ]
     },
-    "id": 238,
+    "id": 250,
     "nodeType": "SourceUnit",
     "nodes": [
       {
@@ -3235,7 +3386,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 252,
+                        "referencedDeclaration": 264,
                         "src": "604:3:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -3324,7 +3475,7 @@
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 252,
+                            "referencedDeclaration": 264,
                             "src": "748:3:0",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
@@ -3378,10 +3529,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        255,
-                        256
+                        267,
+                        268
                       ],
-                      "referencedDeclaration": 255,
+                      "referencedDeclaration": 267,
                       "src": "740:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -3870,10 +4021,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        255,
-                        256
+                        267,
+                        268
                       ],
-                      "referencedDeclaration": 255,
+                      "referencedDeclaration": 267,
                       "src": "1497:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -4072,7 +4223,7 @@
             "visibility": "internal"
           }
         ],
-        "scope": 238,
+        "scope": 250,
         "src": "216:1402:0"
       },
       {
@@ -4383,7 +4534,7 @@
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 252,
+                            "referencedDeclaration": 264,
                             "src": "2102:3:0",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
@@ -4437,10 +4588,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        255,
-                        256
+                        267,
+                        268
                       ],
-                      "referencedDeclaration": 255,
+                      "referencedDeclaration": 267,
                       "src": "2094:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -4698,7 +4849,7 @@
                         "name": "keccak256",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 246,
+                        "referencedDeclaration": 258,
                         "src": "2585:9:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_sha3_pure$__$returns$_t_bytes32_$",
@@ -4990,7 +5141,7 @@
                       "name": "keccak256",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 246,
+                      "referencedDeclaration": 258,
                       "src": "2971:9:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_sha3_pure$__$returns$_t_bytes32_$",
@@ -5123,10 +5274,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        255,
-                        256
+                        267,
+                        268
                       ],
-                      "referencedDeclaration": 255,
+                      "referencedDeclaration": 267,
                       "src": "3054:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -5264,7 +5415,7 @@
                                     "name": "this",
                                     "nodeType": "Identifier",
                                     "overloadedDeclarations": [],
-                                    "referencedDeclaration": 267,
+                                    "referencedDeclaration": 279,
                                     "src": "3215:4:0",
                                     "typeDescriptions": {
                                       "typeIdentifier": "t_contract$_Notary_$204",
@@ -5448,7 +5599,7 @@
                           "name": "now",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 254,
+                          "referencedDeclaration": 266,
                           "src": "3367:3:0",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
@@ -5573,7 +5724,7 @@
             "visibility": "public"
           }
         ],
-        "scope": 238,
+        "scope": 250,
         "src": "1621:1771:0"
       },
       {
@@ -5582,9 +5733,9 @@
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 237,
+        "id": 249,
         "linearizedBaseContracts": [
-          237
+          249
         ],
         "name": "NotaryMulti",
         "nodeType": "ContractDefinition",
@@ -5594,7 +5745,7 @@
             "id": 206,
             "name": "notary",
             "nodeType": "VariableDeclaration",
-            "scope": 237,
+            "scope": 249,
             "src": "3422:20:0",
             "stateVariable": true,
             "storageLocation": "default",
@@ -5721,7 +5872,7 @@
               "parameters": [],
               "src": "3484:0:0"
             },
-            "scope": 237,
+            "scope": 249,
             "src": "3449:68:0",
             "stateMutability": "nonpayable",
             "superFunction": null,
@@ -5729,9 +5880,160 @@
           },
           {
             "body": {
-              "id": 235,
+              "id": 227,
               "nodeType": "Block",
-              "src": "3783:86:0",
+              "src": "3578:52:0",
+              "statements": [
+                {
+                  "expression": {
+                    "argumentTypes": null,
+                    "commonType": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    },
+                    "id": 225,
+                    "isConstant": false,
+                    "isLValue": false,
+                    "isPure": false,
+                    "lValueRequested": false,
+                    "leftExpression": {
+                      "argumentTypes": null,
+                      "hexValue": "32",
+                      "id": 221,
+                      "isConstant": false,
+                      "isLValue": false,
+                      "isPure": true,
+                      "kind": "number",
+                      "lValueRequested": false,
+                      "nodeType": "Literal",
+                      "src": "3595:1:0",
+                      "subdenomination": null,
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_rational_2_by_1",
+                        "typeString": "int_const 2"
+                      },
+                      "value": "2"
+                    },
+                    "nodeType": "BinaryOperation",
+                    "operator": "*",
+                    "rightExpression": {
+                      "argumentTypes": null,
+                      "arguments": [],
+                      "expression": {
+                        "argumentTypes": [],
+                        "expression": {
+                          "argumentTypes": null,
+                          "id": 222,
+                          "name": "notary",
+                          "nodeType": "Identifier",
+                          "overloadedDeclarations": [],
+                          "referencedDeclaration": 206,
+                          "src": "3599:6:0",
+                          "typeDescriptions": {
+                            "typeIdentifier": "t_contract$_Notary_$204",
+                            "typeString": "contract Notary"
+                          }
+                        },
+                        "id": 223,
+                        "isConstant": false,
+                        "isLValue": false,
+                        "isPure": false,
+                        "lValueRequested": false,
+                        "memberName": "notarisationFee",
+                        "nodeType": "MemberAccess",
+                        "referencedDeclaration": 98,
+                        "src": "3599:22:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_function_external_view$__$returns$_t_uint256_$",
+                          "typeString": "function () view external returns (uint256)"
+                        }
+                      },
+                      "id": 224,
+                      "isConstant": false,
+                      "isLValue": false,
+                      "isPure": false,
+                      "kind": "functionCall",
+                      "lValueRequested": false,
+                      "names": [],
+                      "nodeType": "FunctionCall",
+                      "src": "3599:24:0",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_uint256",
+                        "typeString": "uint256"
+                      }
+                    },
+                    "src": "3595:28:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "functionReturnParameters": 220,
+                  "id": 226,
+                  "nodeType": "Return",
+                  "src": "3588:35:0"
+                }
+              ]
+            },
+            "documentation": null,
+            "id": 228,
+            "implemented": true,
+            "isConstructor": false,
+            "isDeclaredConst": true,
+            "modifiers": [],
+            "name": "notaryFee",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 217,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "3541:2:0"
+            },
+            "payable": false,
+            "returnParameters": {
+              "id": 220,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 219,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 228,
+                  "src": "3569:7:0",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 218,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "3569:7:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "3568:9:0"
+            },
+            "scope": 249,
+            "src": "3523:107:0",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "public"
+          },
+          {
+            "body": {
+              "id": 247,
+              "nodeType": "Block",
+              "src": "3904:86:0",
               "statements": [
                 {
                   "expression": {
@@ -5739,12 +6041,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 226,
+                        "id": 238,
                         "name": "_firstRecord",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 218,
-                        "src": "3809:12:0",
+                        "referencedDeclaration": 230,
+                        "src": "3930:12:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_memory_ptr",
                           "typeString": "bytes memory"
@@ -5760,18 +6062,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 223,
+                        "id": 235,
                         "name": "notary",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
                         "referencedDeclaration": 206,
-                        "src": "3793:6:0",
+                        "src": "3914:6:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_contract$_Notary_$204",
                           "typeString": "contract Notary"
                         }
                       },
-                      "id": 225,
+                      "id": 237,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -5779,13 +6081,13 @@
                       "memberName": "notarize",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": 203,
-                      "src": "3793:15:0",
+                      "src": "3914:15:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_payable$_t_bytes_memory_ptr_$returns$__$",
                         "typeString": "function (bytes memory) payable external"
                       }
                     },
-                    "id": 227,
+                    "id": 239,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -5793,15 +6095,15 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "3793:29:0",
+                    "src": "3914:29:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 228,
+                  "id": 240,
                   "nodeType": "ExpressionStatement",
-                  "src": "3793:29:0"
+                  "src": "3914:29:0"
                 },
                 {
                   "expression": {
@@ -5809,12 +6111,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 232,
+                        "id": 244,
                         "name": "_secondRecord",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 220,
-                        "src": "3848:13:0",
+                        "referencedDeclaration": 232,
+                        "src": "3969:13:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_memory_ptr",
                           "typeString": "bytes memory"
@@ -5830,18 +6132,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 229,
+                        "id": 241,
                         "name": "notary",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
                         "referencedDeclaration": 206,
-                        "src": "3832:6:0",
+                        "src": "3953:6:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_contract$_Notary_$204",
                           "typeString": "contract Notary"
                         }
                       },
-                      "id": 231,
+                      "id": 243,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -5849,13 +6151,13 @@
                       "memberName": "notarize",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": 203,
-                      "src": "3832:15:0",
+                      "src": "3953:15:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_payable$_t_bytes_memory_ptr_$returns$__$",
                         "typeString": "function (bytes memory) payable external"
                       }
                     },
-                    "id": 233,
+                    "id": 245,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -5863,20 +6165,20 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "3832:30:0",
+                    "src": "3953:30:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 234,
+                  "id": 246,
                   "nodeType": "ExpressionStatement",
-                  "src": "3832:30:0"
+                  "src": "3953:30:0"
                 }
               ]
             },
             "documentation": "@dev notarize two records\n@param _firstRecord is the first record that should be notarized\n@param _secondRecord is the second record that should be notarized",
-            "id": 236,
+            "id": 248,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -5884,16 +6186,16 @@
             "name": "notarizeTwo",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 221,
+              "id": 233,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 218,
+                  "id": 230,
                   "name": "_firstRecord",
                   "nodeType": "VariableDeclaration",
-                  "scope": 236,
-                  "src": "3735:18:0",
+                  "scope": 248,
+                  "src": "3848:18:0",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -5901,10 +6203,10 @@
                     "typeString": "bytes"
                   },
                   "typeName": {
-                    "id": 217,
+                    "id": 229,
                     "name": "bytes",
                     "nodeType": "ElementaryTypeName",
-                    "src": "3735:5:0",
+                    "src": "3848:5:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_storage_ptr",
                       "typeString": "bytes"
@@ -5915,11 +6217,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 220,
+                  "id": 232,
                   "name": "_secondRecord",
                   "nodeType": "VariableDeclaration",
-                  "scope": 236,
-                  "src": "3755:19:0",
+                  "scope": 248,
+                  "src": "3868:19:0",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -5927,10 +6229,10 @@
                     "typeString": "bytes"
                   },
                   "typeName": {
-                    "id": 219,
+                    "id": 231,
                     "name": "bytes",
                     "nodeType": "ElementaryTypeName",
-                    "src": "3755:5:0",
+                    "src": "3868:5:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_storage_ptr",
                       "typeString": "bytes"
@@ -5940,27 +6242,27 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "3734:41:0"
+              "src": "3847:41:0"
             },
-            "payable": false,
+            "payable": true,
             "returnParameters": {
-              "id": 222,
+              "id": 234,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "3783:0:0"
+              "src": "3904:0:0"
             },
-            "scope": 237,
-            "src": "3714:155:0",
-            "stateMutability": "nonpayable",
+            "scope": 249,
+            "src": "3827:163:0",
+            "stateMutability": "payable",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 238,
-        "src": "3394:478:0"
+        "scope": 250,
+        "src": "3394:599:0"
       }
     ],
-    "src": "0:3873:0"
+    "src": "0:3994:0"
   },
   "compiler": {
     "name": "solc",
@@ -5968,5 +6270,5 @@
   },
   "networks": {},
   "schemaVersion": "2.0.1",
-  "updatedAt": "2018-09-28T01:58:27.927Z"
+  "updatedAt": "2018-09-28T02:10:30.519Z"
 }
